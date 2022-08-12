@@ -21,7 +21,6 @@ const Intro = () => {
        <Image
         src='/img/Avocado.png'
         alt="Avocado"
-       
         layout='fill'
       />
        </div>

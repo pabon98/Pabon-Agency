@@ -17,9 +17,18 @@
     width: max-content;
 }
 
+.title:hover {
+    background-color: white;
+    color: rgba(0, 128, 0, 0.774);
+  }
+
 .linkTitle{
     text-decoration: underline;
 }
+
+.linkTitle:hover {
+    transform: scale(1.1);
+  }
 
 .link{
     display: flex;
