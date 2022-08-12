@@ -6,7 +6,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
   return (
     <div className={styles.container}>
-      <Link href="">AVOCADO</Link>
+      <Link href="/">AVOCADO</Link>
       <ul className={styles.list}>
         <li className={styles.listItem}>
           <Link href="/products/design">Design</Link>
